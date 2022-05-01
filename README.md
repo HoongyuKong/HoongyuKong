@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m a CUHK computer engineering student.
+
+🌱 I’m currently learning Flutter.
+
+📫 How to reach me: 1155058172@link.cuhk.edu.hk
+
 <!--
 **HoongyuKong/HoongyuKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
